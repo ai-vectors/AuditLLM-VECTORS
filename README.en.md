@@ -729,3 +729,5 @@ General provisions on which the methodology stands; references to independent so
 | Maturity models with levels | CMMI (Capability Maturity Model Integration), CMMI Institute / ISACA: five maturity levels of processes — cmmiinstitute.com/learning/appraisals/levels |
 
 Sources are open and were checked on 28.09.2026.
+
+RU version: [README.md](README.md)
