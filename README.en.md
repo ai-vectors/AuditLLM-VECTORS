@@ -379,7 +379,7 @@ For each vector, the user benefit is counted: the sum of benefit scores of scena
 
 The diagnosis is determined by the strictest rule in order; the first applicable rule gives the diagnosis. Danger signals (section 10) are reported first, regardless of the diagnosis.
 
-![Example page of the final report "Diagnosis": ...](images/maket-otcheta-diagnoz.jpg)
+![Example page of the final report "Diagnosis": ...](images/9H33AnNo-maket-otchet_03.jpg)
 
 | Order | Condition | Diagnosis | Route |
 |---|---|---|---|
