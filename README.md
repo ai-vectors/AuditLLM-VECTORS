@@ -905,4 +905,4 @@
 
 Источники открыты и сверены 28.09.2026.
 
-
+English version: [README.en.md](README.en.md)
